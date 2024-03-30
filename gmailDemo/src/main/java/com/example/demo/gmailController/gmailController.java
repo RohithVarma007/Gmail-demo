@@ -98,6 +98,6 @@ public class gmailController {
 	public ResponseDTO getDeleteAllGmail() {
 		return gmailservice.getDeleteAllGmail();
 	}
-	
+	// This is for git praticse Section
 
 }
